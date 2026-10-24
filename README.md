@@ -1,6 +1,6 @@
 # Automated Database Archival System
 
-New changes from feature 101 by preethi
+New changes from feature 101 by preethi srikanth
 
 ## 📌 Overview
 The **Automated Database Archival System** is a backend application built using **Java and Spring Boot** that automatically archives older records from a primary database to a secondary database. It is mainly designed to improve database performance, optimize storage usage and ensure efficient data lifecycle management using scheduled jobs and transactional processing.
