@@ -12,6 +12,8 @@ public class CasearchivalApplication {
 	public static void main(String[] args) {
 		ApplicationContext context = SpringApplication.run(CasearchivalApplication.class, args);
 
+		System.out.println("Added by Ayyappan");
+
 	}
 
 }
